@@ -1,0 +1,23 @@
+html {
+background: url(IMG/lilbaby.png);
+background-size: cover;
+background-color: gray;
+
+margin: auto;
+}
+
+
+p {
+    margin: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+padding: 50px;
+
+
+}
+
+button{
+background-color: firebrick;
+border-radius: 10px;
+}
